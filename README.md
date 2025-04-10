@@ -4,4 +4,4 @@ This project performs regression analysis using different models on the Boston H
 - Multicollinearity (Variance Inflation Factor - VIF).
 - Model performance (Mean Squared Error & R² score).
 
-The analysis involves feature selection, scaling, transformation, and validation to ensure a robust and interpretable results.
+The analysis involves feature selection, scaling, transformation, hyperparameter tuning, and validation to ensure a robust and interpretable results.
