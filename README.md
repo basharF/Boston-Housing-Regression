@@ -1,7 +1,2 @@
 # Boston Housing Regression
-This project performs regression analysis using different models on the Boston Housing dataset to predict housing prices. The goal is to identify the best-fit model by evaluating key metrics such as:
-- Statistical significance.
-- Multicollinearity (Variance Inflation Factor - VIF).
-- Model performance (Mean Squared Error & R² score).
-
-The analysis involves feature selection, scaling, transformation, hyperparameter tuning, and validation to ensure a robust and interpretable results.
+This project performs regression analysis on the Boston Housing dataset to predict housing prices. The goal is to identify the best-fitting model by evaluating key metrics such as R², MSE, RMSE, and MAE. The workflow includes essential steps like data pre-processing and transformation, examining correlations and collinearity between variables, applying regularization, performing hyperparameter tuning, and assessing statistical significance, all aimed at ensuring robust and interpretable results.
